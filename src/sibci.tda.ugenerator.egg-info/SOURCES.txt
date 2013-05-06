@@ -1,0 +1,13 @@
+README.txt
+setup.py
+src/sibci/__init__.py
+src/sibci.tda.ugenerator.egg-info/PKG-INFO
+src/sibci.tda.ugenerator.egg-info/SOURCES.txt
+src/sibci.tda.ugenerator.egg-info/dependency_links.txt
+src/sibci.tda.ugenerator.egg-info/entry_points.txt
+src/sibci.tda.ugenerator.egg-info/namespace_packages.txt
+src/sibci.tda.ugenerator.egg-info/not-zip-safe
+src/sibci.tda.ugenerator.egg-info/requires.txt
+src/sibci.tda.ugenerator.egg-info/top_level.txt
+src/sibci/tda/__init__.py
+src/sibci/tda/ugenerator/__init__.py
