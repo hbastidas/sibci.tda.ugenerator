@@ -1,5 +1,10 @@
+CHANGES.txt
+CONTRIBUTORS.txt
+MANIFEST.in
 README.txt
 setup.py
+docs/LICENSE.GPL
+docs/LICENSE.txt
 src/sibci/__init__.py
 src/sibci.tda.ugenerator.egg-info/PKG-INFO
 src/sibci.tda.ugenerator.egg-info/SOURCES.txt
@@ -11,3 +16,8 @@ src/sibci.tda.ugenerator.egg-info/requires.txt
 src/sibci.tda.ugenerator.egg-info/top_level.txt
 src/sibci/tda/__init__.py
 src/sibci/tda/ugenerator/__init__.py
+src/sibci/tda/ugenerator/estructura.py
+src/sibci/tda/ugenerator/tda_esqueleto.py
+src/sibci/tda/ugenerator/estructura/tda/bootstrap.py
+src/sibci/tda/ugenerator/estructura/tda/tda.py
+src/sibci/tda/ugenerator/plantillas/tda_esqueleto/buildout.cfg_tmpl

@@ -40,7 +40,10 @@ setup(name='sibci.tda.ugenerator',
       ],
       entry_points="""
       # -*- Entry points: -*-
+      [paste.paster_create_template]
+      tda_basico = sibci.tda.ugenerator:TdaEsqueleto
+      
       [templer.templer_structure]
-      estructura = sibci.tda.ugenerator.estructura:CreaEstructura
+      estructura_tda = sibci.tda.ugenerator.estructura:CreaEstructura
       """,
       )
