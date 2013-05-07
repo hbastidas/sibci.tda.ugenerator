@@ -1,7 +1,7 @@
 from templer.core.base import BaseTemplate
 
 class TdaEsqueleto(BaseTemplate):
-    _template_dir = 'plantilla/tda_esqueleto'
+    _template_dir = 'plantillas/tda_esqueleto'
     summary = "Esqueleto basico de una app estandar de TDA"
     help = """
 Esto genera el codigo necesario de un aplicativo TDA
